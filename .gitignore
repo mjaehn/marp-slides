@@ -1,0 +1,6 @@
+# Ignore all generated files
+*.html
+*.pdf
+*.pptx
+*.png
+*.jpg
