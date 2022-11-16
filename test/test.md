@@ -15,3 +15,11 @@ Hello World!
 # Slide 2!
 
 
+```mermaid
+graph TD;
+      nvidia-spack-->mpich;
+      mpich-->cosmo:cpu;
+      mpich-->cosmo:gpu;
+      mpich-->int2lm;
+
+```
